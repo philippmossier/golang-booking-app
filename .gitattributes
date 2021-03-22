@@ -1,2 +1,3 @@
-static/* linguist-vendored=false
-working-html/* linguist-vendored=false
+static/* linguist-vendored
+working-html/* linguist-vendored
+*.go linguist-vendored=false
